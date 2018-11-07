@@ -10,6 +10,6 @@
 4. 进行简单的数据清理
 5. 把数据写入 csv 文件中
 
-详细移驾：
+详细移驾：https://mp.weixin.qq.com/s/ytuKBo53851rct0z9qS09Q
 
 有不懂的，欢迎留言！
